@@ -11,9 +11,12 @@ Unless otherwise noted, the source code of this project is covered under Crown C
 The Canada wordmark and related graphics associated with this distribution are protected under trademark law and copyright law. No permission is granted to use them outside the parameters of the Government of Canada's corporate identity program. For more information, see Federal identity requirements.
 
 
-Acknowledgements: to all open-source providers.   
+### Acknowledgements 
 
-Citation:
+to all open-source providers.   
+
+
+### Citation:
 Grasby, S.E., Liu, X., Yin, R., Ernst, R.E. & Chen, Z. 2020, "Toxic mercury pulses into Late Permian terrestrial and marine environments", Geology vol. 48, issue 8, p. 830-833; 10.1130/G47295.1.
 
 
